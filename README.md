@@ -1,11 +1,13 @@
-# Registration at the City Hall (getting BSN number)
+#
+
+## Registration at the City Hall (getting BSN number)
 You can ask for appointment at:
 http://www.iamsterdam.com/en/expatcenter/expats/online-appointment-form-for-individuals
 
 Typically they will give you an appointment for the next week.
 
 
-# Bank Account
+## Bank Account
 
 In order to open a Dutch bank account, you need to have a BSN number.
 
@@ -18,14 +20,21 @@ They will contact you by e-mail and ask for the branch and time you prefer.
 It might be useful to provide this information when you ask for appointment.
 
 
-# Public Transportation
+## Public Transportation
 
 
 
 
-# Accommodation
+## Accommodation
 
 
 
+
+
+
+#
+
+## Using git
+http://rogerdudler.github.io/git-guide/
 
 
