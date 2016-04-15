@@ -48,6 +48,8 @@ They can give you an appointment for the next day.
 # %30 Ruling
 - http://www.expatax.nl/30ruling
 - http://www.iamsterdam.com/en/local/official-matters/highly-skilled-migrants/thirty-percent-ruling
+- http://www.expatax.nl/30-percent-ruling-do-i-qualify.php
+- http://www.expatax.nl/30rulingapplication.php
 - http://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/themaoverstijgend/programmas_en_formulieren/verzoek_loonheffingen_30_regeling_2016
 - Application form: http://download.belastingdienst.nl/belastingdienst/docs/verzoek_lh_premie_volksverzeker_toepas_30_procent_regel_lh5981z61fol.pdf
 
