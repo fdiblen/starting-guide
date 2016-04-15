@@ -48,7 +48,11 @@ They can give you an appointment for the next day.
 # %30 Ruling
 
 
-# Survival guides
+# Websites for expats - Survival guides
+- http://www.iamexpat.nl/
+- http://www.iamsterdam.com/en/
+
+# Language course
 
 
 # Mobile operators
