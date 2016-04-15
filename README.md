@@ -104,13 +104,24 @@ They can give you an appointment for the next day.
 
 
 ## Software Carpentry
+- http://software-carpentry.org/lessons/
 
 
 ## Docker
+- https://hub.docker.com/r/nlesc/
 
 
 ## Slack
+- https://nlesc.slack.com/messages/general/stars/
 
+
+## NLeSC
+- https://github.com/nlesc-sherlock
+
+## MLCV SIG
+- http://cs231n.github.io/
+- http://cs231n.stanford.edu/syllabus.html
+- https://github.com/NLeSC/deep-learning-assignments-solutions
 
 
 
