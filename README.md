@@ -91,6 +91,8 @@ They can give you an appointment for the next day.
 ## Using git
 - https://git-scm.com/doc
 - http://rogerdudler.github.io/git-guide/
+- https://github.com/dictcp/awesome-git
+- https://github.com/FredrikNoren/ungit
 
 
 ### Github
