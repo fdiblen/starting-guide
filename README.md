@@ -19,22 +19,60 @@ https://www.abnamro.nl/en/personal/payments/open-an-account/f_afspraak.html
 They will contact you by e-mail and ask for the branch and time you prefer. 
 It might be useful to provide this information when you ask for appointment.
 
+Address:
+ABN AMRO Bank
+World Trade Center Amsterdam
+Strawinskylaan 31
++31 900 0024
+
+
+You can also call and ask for appointment. Actually, this is easier and faster. 
+They can give you an appointment for the next day.
 
 ## Public Transportation
+- OV-fiets
+- Vordaal
+- trajectory
+
 
 
 
 
 ## Accommodation
+- Facebook groups
+- ymere
 
 
 
+# %30 Ruling
 
 
 
-#
+# Technical
+
+## (E)books
+- github address
+- Book shelf, NLeSC can buy if it is an interesting book
+
+### Python
+
 
 ## Using git
 http://rogerdudler.github.io/git-guide/
+### Github
+
+
+### Git LFS
+
+
+## Software Carpentry
+
+
+## Docker
+
+
+## Slack
+
+
 
 
