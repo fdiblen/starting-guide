@@ -101,6 +101,7 @@ They can give you an appointment for the next day.
 
 
 ### Git LFS
+- https://git-lfs.github.com/
 
 
 ## Software Carpentry
