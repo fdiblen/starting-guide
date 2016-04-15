@@ -30,9 +30,9 @@ You can also call and ask for appointment. Actually, this is easier and faster.
 They can give you an appointment for the next day.
 
 ## Public Transportation
-- OV-fiets
-- Vordaal
-- trajectory
+- http://www.ns.nl/en/door-to-door/ov-fiets/the-ov-fiets.html
+- https://www.ns.nl/producten/en/abonnementen/p/dal-voordeel
+- fixed trajectory
 - NS group tickets
 
 
@@ -40,12 +40,14 @@ They can give you an appointment for the next day.
 
 
 ## Accommodation
-- Facebook groups
-- ymere
+- Facebook groups here
+- https://www.ymere.nl
 
 
 
 # %30 Ruling
+- http://www.expatax.nl/30ruling
+- http://www.iamsterdam.com/en/local/official-matters/highly-skilled-migrants/thirty-percent-ruling
 
 
 # Websites for expats - Survival guides
