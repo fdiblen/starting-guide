@@ -128,7 +128,7 @@ They can give you an appointment for the next day.
 - https://nlesc.slack.com/messages/general/stars/
 
 
-## NLeSC
+## NLeSC sherlock
 - https://github.com/nlesc-sherlock
 
 ## MLCV SIG
