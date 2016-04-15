@@ -56,11 +56,14 @@ They can give you an appointment for the next day.
 # Technical
 
 ## (E)books
-- github address
-- Book shelf, NLeSC can buy if it is an interesting book
+- https://github.com/vhf/free-programming-books
+- *List of books at NLeSC*. NLeSC can buy if it is an interesting book
 
 ### Python
 
+
+## GPU course
+- https://github.com/benvanwerkhoven/gpu-course
 
 ## NLeSC Knowledge Base
 - https://github.com/NLeSC/kb/wiki
