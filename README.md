@@ -65,8 +65,14 @@ They can give you an appointment for the next day.
 - www.belsimpel.nl
 - www.tweakers.net
 
-# Project guide
+# NLeSC Project guide
 - https://github.com/NLeSC/guide
+
+# NLeSC Software Development guide
+- https://github.com/NLeSC/software-development-guide
+
+# Essential skills course
+- https://github.com/NLeSC/essential-skills-25-01-2015-Utrecht
 
 # Technical
 
