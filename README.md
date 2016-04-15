@@ -47,6 +47,10 @@ They can give you an appointment for the next day.
 
 # %30 Ruling
 
+
+# Survival guides
+
+
 # Mobile operators
 - www.belsimpel.nl
 - www.tweakers.net
