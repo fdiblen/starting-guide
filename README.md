@@ -46,7 +46,12 @@ They can give you an appointment for the next day.
 
 # %30 Ruling
 
+# Mobile operators
+- www.belsimpel.nl
+- www.tweakers.net
 
+# Project guide
+- https://github.com/NLeSC/guide
 
 # Technical
 
@@ -57,9 +62,28 @@ They can give you an appointment for the next day.
 ### Python
 
 
+## NLeSC Knowledge Base
+- https://github.com/NLeSC/kb/wiki
+
+
+## jenkins
+- https://ci.esciencecenter.nl/
+
+## eStep
+- https://github.com/NLeSC/estep-checklist
+
+## Markdown
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 ## Using git
-http://rogerdudler.github.io/git-guide/
+- https://git-scm.com/doc
+- http://rogerdudler.github.io/git-guide/
+
+
 ### Github
+- https://www.gitbook.com/book/snowdream86/github-cheat-sheet/details
+- https://guides.github.com/introduction/flow/
 
 
 ### Git LFS
