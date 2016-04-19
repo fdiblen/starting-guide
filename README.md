@@ -36,8 +36,12 @@ They can give you an appointment for the next day.
 - NS group tickets
 
 
-
-
+# Getting a bicycle
+- https://www.asva.nl/bikes
+- http://www.fietshokje.nl
+- http://www.city-bikes.nl/
+- Recycled Bicycles
+Spuistraat 84A
 
 ## Accommodation
 - Facebook groups here
@@ -81,6 +85,8 @@ They can give you an appointment for the next day.
 - *List of books at NLeSC*. NLeSC can buy if it is an interesting book
 
 ### Python
+- https://www.enthought.com/products/canopy/
+- https://www.continuum.io/downloads
 
 
 ## GPU course
